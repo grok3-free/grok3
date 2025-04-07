@@ -2,8 +2,8 @@
 
 > **更新时间：2025/03/04**  
 
-**全面体验 [Grok 中文版](https://chat.gptcat.net/)，无需翻墙，支持 Grok 3 和多功能应用！**  
-本项目旨在为用户提供一站式的 **[Grok 中文版](https://chat.gptcat.net/)使用指南**，同时整理了国内可用的 **[Grok镜像网站](https://chat.gptcat.net/)** 和 **官网使用教程**，帮助您快速上手 Grok，无论是个人使用还是专业需求。
+**全面体验 [Grok 中文版](https://chat.gptcat.cc/)，无需翻墙，支持 Grok 3 和多功能应用！**  
+本项目旨在为用户提供一站式的 **[Grok 中文版](https://chat.gptcat.cc/)使用指南**，同时整理了国内可用的 **[Grok镜像网站](https://chat.gptcat.cc/)** 和 **官网使用教程**，帮助您快速上手 Grok，无论是个人使用还是专业需求。
 
 ---
 
@@ -36,8 +36,8 @@
 
 | 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
-| **猫猫 AI**         | [https://chat.gptcat.net/](https://chat.gptcat.net/) | Grok 3，GPT，Cluade，Germini，DeepSeek | 有 | 国内邮箱注册 | 高     | 中文支持、支持 Grok 3 和MJ绘图 |
-| **Grok 猫中文站**     | [gptcat.net](https://gptcat.net)      | Grok 3       | 有 | 国内邮箱注册     | 高     | 支持最新的 GPT-o1-pro，实时语音对话，视频对话|
+| **猫猫 AI**         | [https://chat.gptcat.cc/](https://chat.gptcat.cc/) | Grok 3，GPT，Cluade，Germini，DeepSeek | 有 | 国内邮箱注册 | 高     | 中文支持、支持 Grok 3 和MJ绘图 |
+| **Grok 猫中文站**     | [gptcat.cc](https://gptcat.cc)      | Grok 3       | 有 | 国内邮箱注册     | 高     | 支持最新的 GPT-o1-pro，实时语音对话，视频对话|
 
 ---
 
